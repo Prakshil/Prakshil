@@ -1,9 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on JS frameworks<br><br>🌱 I’m currently learning Full Stack Development<br><br>💬 Ask me about AI & ML<br><br>⚡ Fun fact: Developers spend 90% of their time trying to figure out why their code isn’t working... and the other 10% celebrating when they realize it was just a missing semicolon!
 
-<hr>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00F707&width=435&lines=%3E+Building.+Breaking.+Learning.+Repeating.)](https://git.io/typing-svg)
-<hr>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Prakshil_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prakshil-Patel ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Prakshil-Patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prakshilmpatel@gmail.com) 
