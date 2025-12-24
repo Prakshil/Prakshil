@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/image.jpeg" alt="GitHub Profile Banner" width="100%" />
+</p>
+
+
+
 # 💫 About Me:
 I’m Prakshil Patel, an aspiring AI/ML Engineer and Full-Stack Developer, currently pursuing a B.Tech in Information & Communication Technology (ICT) at Adani University. I enjoy building intelligent, scalable applications that blend clean UI with strong backend systems. My interests lie in AI-powered products, modern web development, and automation, where I turn ideas into practical, real-world solutions.
 <br>
