@@ -3,7 +3,6 @@
 </p>
 
 
-
 # 💫 About Me:
 I’m Prakshil Patel, an aspiring AI/ML Engineer and Full-Stack Developer, currently pursuing a B.Tech in Information & Communication Technology (ICT) at Adani University. I enjoy building intelligent, scalable applications that blend clean UI with strong backend systems. My interests lie in AI-powered products, modern web development, and automation, where I turn ideas into practical, real-world solutions.
 <br>
@@ -20,8 +19,6 @@ I’m actively open to freelance work, collaborations, internships, and full-tim
 [![GitHub Streak](https://streak-stats.demolab.com?user=prakshil&theme=vision-friendly-dark)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakshil&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prakshil&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
