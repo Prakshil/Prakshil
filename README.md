@@ -3,39 +3,14 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Prakshil</h1>
+<h3 align="center">Aspiring AI/ML Engineer & Full-Stack Developer 🚀</h3>
+<p align="center"><i>Building intelligent, scalable applications that blend clean UI with strong backend systems.</i></p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007EC6&center=true&vCenter=true&width=600&height=50&lines=Aspiring+AI%2FML+Engineer;Full-Stack+Developer;Building+intelligent+solutions;Always+curious,+always+building+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:prakshilmpatel@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/Prakshil-Patel">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://prakshilpatel.in">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://drive.google.com/file/d/12HOB02J-B7djUWsB7P7wd-nWqrQtfig9/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prakshil&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prakshil&theme=vision-friendly-dark&no-frame=true&no-bg=true&margin-w=15" alt="Prakshil's Trophies" />
-  </a>
+  <a href="mailto:prakshilmpatel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/Prakshil-Patel"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://prakshilpatel.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/12HOB02J-B7djUWsB7P7wd-nWqrQtfig9/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
@@ -43,10 +18,10 @@
 ## 💫 About Me
 
 - 🎓 Currently pursuing a B.Tech in **Information & Communication Technology (ICT)** at Adani University.
-- 💡 Passionate about building intelligent, scalable applications that blend clean UI with strong backend systems.
 - 🤖 My interests lie heavily in **AI-powered products**, modern web development, and automation.
 - 🌱 Currently diving deeper into **Machine Learning models** and expanding my full-stack capabilities (React, Next.js, Python, FastAPI).
 - 🤝 Actively open to **freelance work, collaborations, internships, and full-time opportunities**.
+- ⚡ **Fun fact:** Always curious, always building.
 
 ---
 
@@ -72,17 +47,23 @@
 ## 📊 GitHub Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakshil&show_icons=true&theme=vision-friendly-dark&hide_border=false" alt="Prakshil's GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=prakshil&theme=vision-friendly-dark&hide_border=false" alt="GitHub Streak" />
 </div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakshil&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</div>
-
 <br>
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=prakshil&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakshil/prakshil/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakshil/prakshil/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prakshil/prakshil/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
