@@ -10,8 +10,10 @@
   <a href="mailto:prakshilmpatel@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/Prakshil-Patel"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://prakshilpatel.in"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-
+  <a href="https://drive.google.com/file/d/19vocV8y3YRtWBqbGidhp4uY2-JmOYYHR/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285E4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+</a>
 </p>
+
 
 ---
 
